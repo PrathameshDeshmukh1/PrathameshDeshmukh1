@@ -44,15 +44,15 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
   </a>
-  <!-- SonarQube Logo -->
+  <!-- SonarQube Logo (Light) -->
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg" alt="sonarqube" width="40" height="40"/>
   </a>
-  <!-- Nexus Logo -->
+  <!-- Nexus Logo (Light) -->
   <a href="https://www.sonatype.com/products/repository-pro" target="_blank" rel="noreferrer">
-    <img src="https://www.sonatype.com/sites/default/files/2021-03/nexus-logo-horizontal.svg" alt="nexus" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nexus/nexus-original-wordmark.svg" alt="nexus" width="40" height="40"/>
   </a>
-  <!-- Maven Logo -->
+  <!-- Maven Logo (Light) -->
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="maven" width="40" height="40"/>
   </a>

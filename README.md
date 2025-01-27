@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/v2/D5612AQFyhIwe1KpRcQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693849724517?e=2147483647&v=beta&t=Tw7-k64LywSyIyi2xn7l9rXX3veGObamA6ZO-zTwxdI))]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/v2/D5612AQFyhIwe1KpRcQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693849724517?e=2147483647&v=beta&t=Tw7-k64LywSyIyi2xn7l9rXX3veGObamA6ZO-zTwxdI)](https://PrathameshDeshmukh1)
 <h1 align="center">Hi 👋, I'm Prathamesh Deshmukh</h1>
 <h3 align="center">Automating the Future with DevOps | AWS, CI/CD, Docker, Kubernetes & Terraform Enthusiast ☁️🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*pCaz29jmBaD-KHaS4dlKaQ.gif">

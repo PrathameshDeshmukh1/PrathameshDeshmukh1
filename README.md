@@ -46,14 +46,14 @@
   </a>
   <!-- SonarQube Logo (Light) -->
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg" alt="sonarqube" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/SonarQube_logo.svg" alt="sonarqube" width="40" height="40"/>
   </a>
   <!-- Nexus Logo (Light) -->
   <a href="https://www.sonatype.com/products/repository-pro" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nexus/nexus-original-wordmark.svg" alt="nexus" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Sonatype_Nexus_logo.svg" alt="nexus" width="40" height="40"/>
   </a>
   <!-- Maven Logo (Light) -->
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="maven" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Apache_Maven_logo.svg" alt="maven" width="40" height="40"/>
   </a>
 </p>

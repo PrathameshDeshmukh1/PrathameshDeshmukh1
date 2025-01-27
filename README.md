@@ -44,16 +44,15 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
   </a>
-  <!-- SonarQube Logo (White Background) -->
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/SonarQube_logo.png" alt="sonarqube" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/SonarQube_logo.png" alt="sonarqube" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px;"/>
   </a>
-  <!-- Nexus Logo (White Background) -->
+  <!-- Nexus Logo with Background -->
   <a href="https://www.sonatype.com/products/repository-pro" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Sonatype_Nexus_logo.png" alt="nexus" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Sonatype_Nexus_logo.png" alt="nexus" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px;"/>
   </a>
-  <!-- Maven Logo (White Background) -->
+  <!-- Maven Logo with Background -->
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Apache_Maven_logo.svg" alt="maven" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Apache_Maven_logo.svg" alt="maven" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px;"/>
   </a>
 </p>

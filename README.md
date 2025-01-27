@@ -48,8 +48,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/SonarQube_logo.png" alt="sonarqube" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px;"/>
   </a>
   <!-- Nexus Logo with Background -->
-  <a href="https://www.sonatype.com/products/repository-pro" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Sonatype_Nexus_logo.png" alt="nexus" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px;"/>
+  <a href="[https://www.sonatype.com/products/repository-pro](https://www.google.com/url?sa=i&url=https%3A%2F%2Fapplitools.com%2Fcase-studies%2Fsonatype%2F&psig=AOvVaw2Qs7RPIm1bBw4X0w3xwMeN&ust=1738058767932000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDil87TlYsDFQAAAAAdAAAAABAJ)" target="_blank" rel="noreferrer">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/1/13/Sonatype_Nexus_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fapplitools.com%2Fcase-studies%2Fsonatype%2F&psig=AOvVaw2Qs7RPIm1bBw4X0w3xwMeN&ust=1738058767932000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDil87TlYsDFQAAAAAdAAAAABAJ)" alt="nexus" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px;"/>
   </a>
   <!-- Maven Logo with Background -->
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
